@@ -8,10 +8,10 @@ Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, a
 <br>
 More information about extending the content can be found [here](http://aurorabuilder.com/content/ "Additional Content").
 
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index **(required)**
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements.index
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana.index
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party.index
+- https://raw.githubusercontent.com/wahledor/Aurora/master/core.index **(required)**
+- https://raw.githubusercontent.com/wahledor/Aurora/master/supplements.index
+- https://raw.githubusercontent.com/wahledor/Aurora/master/unearthed-arcana.index
+- https://raw.githubusercontent.com/wahledor/Aurora/master/third-party.index
 
 ### Community Driven Content
 A collection of community driven content can be found [here](http://aurorabuilder.com/content/#community "Community Driven Content") which includes some homebrew content posted on reddit and dnd wiki.
